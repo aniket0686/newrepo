@@ -1,1 +1,3 @@
-iecho " welcome world"
+#!/bin/bash
+echo " welcome world"
+echo " second verson"
